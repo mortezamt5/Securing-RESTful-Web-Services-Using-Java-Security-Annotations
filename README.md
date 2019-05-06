@@ -1,5 +1,11 @@
 # How To Securing RESTful Web Services in Java EE Web Application Using Java Security Annotations ?
-  
+  ## introduce
+     The javax.annotation.security package provides annotations,  that you can use to secure your RESTful 
+     Web services. For more information, see:
+
+     "Specifying Authorized Users by Declaring Security Roles" in The Java EE Tutorial.
+
+     javax.annotation.security Javadoc
   ## Annotation	Description
       - DenyAll
       Specifies that no security roles are allowed to invoke the specified methods.
